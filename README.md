@@ -38,4 +38,4 @@ To set up ReelsReelsReels on your local machine, follow these instructions:
 
 The following image demonstrates the web application's appearance and functionality:
 
-![Preview of Website(Desktop)](./assets/images/Preview.png)
+![Preview of Website(Desktop)](./public/assets/images/Preview.png)
